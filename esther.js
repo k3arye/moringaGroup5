@@ -6,3 +6,6 @@ for (let i = 0; i < ages.length; i++) {
 }
 
 console.log("Total age: " + total);
+
+let average = total / ages.length;
+console.log("Average age: " + average);
